@@ -15,15 +15,9 @@ Advanced  Responsive Grid Project
   Project from Advanced CSS and Sass: Flexbox, Grid, Animations and More Course by Jonas Schmedtmann.
 </p>
 
-## Built With
 
--Vanilla Js
 
--Npm Babel Parcel
 
--Model View Controller Architecture
-
--[Forkify API](https://forkify-api.herokuapp.com/)
 
 
 
